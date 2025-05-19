@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Go Green",
+      "body": "Artificial Intelligence is no longer just a futuristic concept - it's transforming how we live, work, and interact daily. From smart home devices to personalized healthcare, AI is becoming an invisible yet essential assistant in our routines. This article explores the most impactful AI applications you're already using without realizing it",
+      "authorId": 1,
+      "categoryId": 1,
+      "tags": [
+        "AI",
+        "GenAI"
+      ],
+      "status": "draft",
+      "coverImage": "https://purebluesustainability.com/wp-content/uploads/2022/02/Environmental-Sustainability-Examples-Tips-to-Implement-Them.jpg",
+      "createdAt": "2025-05-19T04:40:43.643Z"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Hey there",
+      "slug": "wassup",
+      "id": 1
+    }
+  ],
+  "authors": [
+    {
+      "name": "Manish",
+      "avatar": "https://m.media-amazon.com/images/S/pv-target-images/16627900db04b76fae3b64266ca161511422059cd24062fb5d900971003a0b70.jpg",
+      "bio": "I am Manish ",
+      "createdAt": "2025-05-19T04:42:04.790Z",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "user@gmail.com",
+      "password": "user0077",
+      "name": "Demo User"
+    },
+    {
+      "id": 1747584325822,
+      "email": "hey@gmail.com",
+      "password": "manish1234",
+      "name": "Manish"
+    },
+    {
+      "id": 1747629795218,
+      "email": "m@gmail.com",
+      "password": "manish0000",
+      "name": "Manish "
+    }
+  ]
+}
