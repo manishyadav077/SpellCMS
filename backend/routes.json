@@ -1,0 +1,7 @@
+{
+  "/login": "/users",
+  "/register": "/users",
+  "/posts": "/posts",
+  "/authors": "/authors",
+  "/categories": "/categories"
+}
